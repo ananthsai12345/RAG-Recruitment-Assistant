@@ -8,7 +8,6 @@ The assistant uses **Llama 3** for generating responses and **nomic-embed-text**
 - Semantic search using nomic-embed-text embeddings
 - Retrieval-Augmented Generation (RAG)
 - Candidate document ingestion
-- Semantic search using vector embeddings
 - Vector database integration with Pinecone
 - Local LLM and embedding model integration using Ollama
 - Automated workflows using n8n
@@ -35,7 +34,7 @@ User Question
 n8n Chat Trigger
       ↓
 AI Agent
-  ├── Llama 3 (via Ollama)
+  ├── Llama 3.2 (via Ollama)
   ├── Simple Memory
   └── Vector Store Search
           ↓
@@ -105,6 +104,3 @@ Cloudflare Tunnel is used to securely expose the locally running application wit
 
 <img src="images/Cloudflare.png" width="700">
 
-### Cloudflare Tunnel
-
-![Cloudflare](images/Cloudflare.png)

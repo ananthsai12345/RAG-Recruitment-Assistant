@@ -1,10 +1,10 @@
-An AI-powered Recruitment Assistant built using **n8n, Ollama, Llama 3, Pinecone, and Retrieval-Augmented Generation (RAG)**.
+An AI-powered Recruitment Assistant built using **n8n, Ollama, Llama 3.2:latest , Pinecone, and Retrieval-Augmented Generation (RAG)**.
 
-The assistant uses **Llama 3** for generating responses and **nomic-embed-text** for converting candidate documents into vector embeddings.
+The assistant uses **Llama 3.2:latest** for generating responses and **nomic-embed-text** for converting candidate documents into vector embeddings.
 
 ##  Features
 
-- AI-powered recruitment assistant using Llama 3
+- AI-powered recruitment assistant using Llama 3.2:latest
 - Semantic search using nomic-embed-text embeddings
 - Retrieval-Augmented Generation (RAG)
 - Candidate document ingestion

@@ -78,3 +78,33 @@ The workflow uses:
 ## 3. Deployment
 The n8n instance is containerized using Docker.
 Cloudflare Tunnel is used to securely expose the locally running application without traditional router port forwarding.
+
+## 📸 Project Screenshots
+
+### Document Ingestion Architecture
+
+![Document Ingestion Architecture](images/Document%20Ingestion%20Architecture.png)
+
+### Recruitment Chat Architecture
+
+![Chat Architecture](images/Chat%20Architecture.png)
+
+### Recruitment Chat Interface
+
+![Chat Interface](images/Chat%20Interface.png)
+
+### Candidate Form Submission
+
+![Form Submission](images/Form%20Submission.png)
+
+### Pinecone Vector Database
+
+![Pinecone VectorDB](images/Pinecone%20VectorDB.png)
+
+### Docker Deployment
+
+![Docker](images/Docker%20Image.png)
+
+### Cloudflare Tunnel
+
+![Cloudflare](images/Cloudflare.png)

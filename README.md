@@ -85,25 +85,25 @@ Cloudflare Tunnel is used to securely expose the locally running application wit
 
 ![Document Ingestion Architecture](images/Document%20Ingestion%20Architecture.png)
 
-### Recruitment Chat Architecture
-
-![Chat Architecture](images/Chat%20Architecture.png)
-
 ### Recruitment Chat Interface
 
-![Chat Interface](images/Chat%20Interface.png)
+<img src="images/Chat%20Interface.png" width="700">
 
 ### Candidate Form Submission
 
-![Form Submission](images/Form%20Submission.png)
+<img src="images/Form%20Submission.png" width="500">
 
 ### Pinecone Vector Database
 
-![Pinecone VectorDB](images/Pinecone%20VectorDB.png)
+<img src="images/Pinecone%20VectorDB.png" width="700">
 
 ### Docker Deployment
 
-![Docker](images/Docker%20Image.png)
+<img src="images/Docker%20Image.png" width="700">
+
+### Cloudflare Tunnel
+
+<img src="images/Cloudflare.png" width="700">
 
 ### Cloudflare Tunnel
 
